@@ -1,0 +1,191 @@
+{
+  "main": {
+    "name":"Ohanu Riches Kelechi",
+    "description":"I am a software engineer and I use react js, node js, mongoDB, Restful APIs and so many other technologies out there . This project is my portfolio website that can be used to see my works and book me for projects and works",
+    "image":"pix.jpg",
+    "bio":"I am a software engineer with more than 4 years experience. I graduated from Imo state university with a BSc in computer science. I have industry based experience having worked for Aptech Computer Education As a Web development faculty from 2017 to 2019. I proceeded to Decagon where I obtained the skills of a software engineer. can work Remotely and can take on projects to finish in a specified time.",
+    "contactmessage":"You need a project done, you need a teacher to put you through, you have a remote work for myself or you have a question for me, You can contact me using the form below.",
+    "email": "richeskelechi94.rk@gmail.com",
+    "phone": "+234 0809 426 2047",
+    "github":"https://github.com/Richeskelechi/portfolio",
+    "project":"https://github.com/Richeskelechi/portfolio",
+    "address":{
+      "street":"7 Asajon way",
+      "city":"sangotedo Ajah",
+      "state":"Lagos state",
+      "zip": "103241"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/riches.kelechi.5",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/KelechiRiches",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/riches-kelechi-346b62187/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/richeskelechi/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Richeskelechi/",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here are the languages and skills which i have acquired over the years. Up to date with the current industry demands.",
+    "education":[
+      {
+        "school":"University?",
+        "degree":"Imo state University",
+        "graduated":"June 2018",
+        "description":"Bachelor of science in computer science. Gained skills in Mathematics Also. "
+      },
+      {
+        "school":"proficient Skils",
+        "degree":"Aptech Computer Education",
+        "graduated":"Sept, 2017",
+        "description":"Got hands on web development skills during my IT days. Gain skills also in C#, Java and Python"
+      }
+    ],
+    "work":[
+      {
+        "company":"Proficient Skils",
+        "title":"Aptech Computer Education",
+        "years":"Sept, 2019",
+        "description":"Web developer in the company. Was in charge of many students where i teach web development and helping out with school projects and real life projects"
+      },
+      {
+        "company":"Web Skills",
+        "title":"Uru Academy",
+        "years":"2019",
+        "description":"Part-time staff with the Academy, I taught students web development"
+      },
+      {
+        "company":"Decagon",
+        "title":"Software Engineer",
+        "years":"March 2021 - Present",
+        "description":"Industry based Knowledge on Javascript, Node Js, React Js, MongoDB, GraphQl, RestFul API, Agile Methodology and so on"
+      }
+    ],
+    "skills":[
+      {
+        "name":"ReactJs",
+        "level":"90%"
+      },
+      {
+        "name":"Python",
+        "level":"40%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"95%"
+      },
+      {
+        "name":"PHP",
+        "level":"95%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      },
+      {
+        "name":"JAVA",
+        "level":"40%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"01.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      }
+    ]
+  }
+}
