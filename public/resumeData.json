@@ -15,8 +15,8 @@
       "state":"Lagos state",
       "zip": "103241"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"https://drive.google.com/file/d/1-ZDkJ2UPg2AXYtaUm8_WryK4huUrea2i/view?usp=sharing",
+    "website": "https://richesportfolio.herokuapp.com/",
+    "resumedownload":"https://drive.google.com/file/d/1X0S0SYaNOoTiwEMOQSRFWkYBvK7asJQ6/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -83,8 +83,16 @@
     ],
     "skills":[
       {
-        "name":"ReactJs",
-        "level":"90%"
+        "name":"Node Js",
+        "level":"94%"
+      },
+      {
+        "name":"React Js",
+        "level":"80%"
+      },
+      {
+        "name":"Express Js",
+        "level":"84%"
       },
       {
         "name":"Python",
@@ -92,7 +100,7 @@
       },
       {
         "name":"VueJs",
-        "level":"50%"
+        "level":"55%"
       },
       {
         "name":"CSS",
